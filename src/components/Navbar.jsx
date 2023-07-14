@@ -1,6 +1,7 @@
 import React from 'react'
 import  styled from 'styled-components'
 import logo from '../assets/images/logo.png'
+
 const NavContainer = styled.div`
 height:56px;
 display:flex;
@@ -12,7 +13,7 @@ justify-content: space-between;
 
 
 const NavLogo = styled.img`
-width:105px;
+width:108px;
 margin-right: 1.8rem;
 
 `
@@ -20,7 +21,6 @@ margin-right: 1.8rem;
 const NavLinksProductsContainer = styled.div`
 display:flex;
 align-items:center;
-
 `
 const NavLinksProducts = styled.li`
 text-decoration:none;

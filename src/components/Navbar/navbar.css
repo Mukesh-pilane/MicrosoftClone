@@ -1,0 +1,7 @@
+.nav__container{
+  height:56px;
+display:flex;
+align-items:center;
+padding:0 5.2rem 0 5.2rem;
+justify-content: space-between;
+}
